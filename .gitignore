@@ -1,0 +1,10 @@
+﻿venv/
+env/
+__pycache__/
+*.pyc
+visa_vector_store/
+*.faiss
+*.pkl
+chunks.pkl
+.streamlit/
+.DS_Store
